@@ -1,5 +1,8 @@
 #import "WoWUtils.h"
 
+//# Test comment
+
+
 @implementation WoWUtils
 
 NSString * const WowClassTypeWarrior        = @"Warrior";
